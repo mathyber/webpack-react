@@ -1,0 +1,17 @@
+@import "../style/fonts";
+
+$body-color: red;
+$b-color: green;
+$font: 'Gotham Pro', GothamPro, Arial, sans-serif;
+
+body {
+  color: $body-color;
+  .b {
+    font-family: $font;
+    font-weight: bold;
+    font-style: normal;
+    color: $b-color;
+    font-size: 20px;
+  }
+}
+
