@@ -1,8 +1,9 @@
 const React = require('react')
 const ReactDOM = require ('react-dom')
+const Content = require('./content.js')
 const st = require(__dirname + '/../style/style.scss')
 
 ReactDOM.render(
-    <div className='b'>TUPO TEXT</div>,
+    <Content />,
     document.querySelector("#root")
 )
