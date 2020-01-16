@@ -1,5 +1,4 @@
 const path = require('path');
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = {
     entry: './js/app.js',
@@ -8,7 +7,11 @@ module.exports = {
         path: path.resolve(__dirname, 'dist'),
         filename: 'bundle.js'
     },
-
+    resolve: {
+        alias: {
+            images: path.resolve(__dirname, 'images/'),
+        },
+    },
     devtool: "source-map",
     module: {
         rules: [
@@ -34,7 +37,7 @@ module.exports = {
                 use: {
                     loader: 'file-loader',
                     options: {
-                        name: '[name].[ext]'
+                        name: 'images/[name].[ext]'
                     }
                 }
             },
@@ -44,7 +47,7 @@ module.exports = {
                 use: {
                     loader: 'file-loader',
                     options: {
-                        name: '[name].[ext]'
+                        name: 'fonts/[name].[ext]'
                     }
                 }
             }
