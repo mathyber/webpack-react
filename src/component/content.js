@@ -1,6 +1,6 @@
 const React = require('react')
-const ReactDOM = require('react-dom')
-const ima = require(__dirname + '/../img/esc2020logo.png').default
+const st = require(__dirname + '/content.scss')
+const ima = require(__dirname + '/../images/esc2020logo.png').default
 
 class Content extends React.Component {
 
