@@ -2,48 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6bc9269-109e-4e54-bbd8-7c748eca6d89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/esc2020logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Black.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Black.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-BlackItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-BlackItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-BoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-BoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Light.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-LightItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-LightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Medium.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-MediumItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro-MediumItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamPro.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamProNarrow-Bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamProNarrow-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamProNarrow-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamProNarrow-Medium.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamProNarrow-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GothamProNarrow-Medium.woff" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-BlackItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-BoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/GothamPro-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/esc2020logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/content.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
@@ -116,7 +93,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579164815407</updated>
-      <workItem from="1579164817554" duration="17812000" />
+      <workItem from="1579164817554" duration="19375000" />
+      <workItem from="1579244486731" duration="2471000" />
     </task>
     <servers />
   </component>

@@ -90,12 +90,10 @@
 /*!*****************************************!*\
   !*** ./fonts/GothamPro-BlackItalic.eot ***!
   \*****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-BlackItalic.eot");
+module.exports = __webpack_require__.p + "fonts/GothamPro-BlackItalic.eot";
 
 /***/ }),
 
@@ -103,12 +101,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!*****************************************!*\
   !*** ./fonts/GothamPro-BlackItalic.ttf ***!
   \*****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-BlackItalic.ttf");
+module.exports = __webpack_require__.p + "fonts/GothamPro-BlackItalic.ttf";
 
 /***/ }),
 
@@ -116,12 +112,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!******************************************!*\
   !*** ./fonts/GothamPro-BlackItalic.woff ***!
   \******************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-BlackItalic.woff");
+module.exports = __webpack_require__.p + "fonts/GothamPro-BlackItalic.woff";
 
 /***/ }),
 
@@ -129,12 +123,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!**********************************!*\
   !*** ./fonts/GothamPro-Bold.eot ***!
   \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-Bold.eot");
+module.exports = __webpack_require__.p + "fonts/GothamPro-Bold.eot";
 
 /***/ }),
 
@@ -142,12 +134,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!**********************************!*\
   !*** ./fonts/GothamPro-Bold.ttf ***!
   \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-Bold.ttf");
+module.exports = __webpack_require__.p + "fonts/GothamPro-Bold.ttf";
 
 /***/ }),
 
@@ -155,12 +145,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!***********************************!*\
   !*** ./fonts/GothamPro-Bold.woff ***!
   \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-Bold.woff");
+module.exports = __webpack_require__.p + "fonts/GothamPro-Bold.woff";
 
 /***/ }),
 
@@ -168,12 +156,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!****************************************!*\
   !*** ./fonts/GothamPro-BoldItalic.eot ***!
   \****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-BoldItalic.eot");
+module.exports = __webpack_require__.p + "fonts/GothamPro-BoldItalic.eot";
 
 /***/ }),
 
@@ -181,12 +167,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!****************************************!*\
   !*** ./fonts/GothamPro-BoldItalic.ttf ***!
   \****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-BoldItalic.ttf");
+module.exports = __webpack_require__.p + "fonts/GothamPro-BoldItalic.ttf";
 
 /***/ }),
 
@@ -194,12 +178,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!*****************************************!*\
   !*** ./fonts/GothamPro-BoldItalic.woff ***!
   \*****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-BoldItalic.woff");
+module.exports = __webpack_require__.p + "fonts/GothamPro-BoldItalic.woff";
 
 /***/ }),
 
@@ -207,12 +189,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!************************************!*\
   !*** ./fonts/GothamPro-Italic.eot ***!
   \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-Italic.eot");
+module.exports = __webpack_require__.p + "fonts/GothamPro-Italic.eot";
 
 /***/ }),
 
@@ -220,12 +200,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!************************************!*\
   !*** ./fonts/GothamPro-Italic.ttf ***!
   \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-Italic.ttf");
+module.exports = __webpack_require__.p + "fonts/GothamPro-Italic.ttf";
 
 /***/ }),
 
@@ -233,12 +211,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!*************************************!*\
   !*** ./fonts/GothamPro-Italic.woff ***!
   \*************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-Italic.woff");
+module.exports = __webpack_require__.p + "fonts/GothamPro-Italic.woff";
 
 /***/ }),
 
@@ -246,12 +222,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!************************************!*\
   !*** ./fonts/GothamPro-Medium.eot ***!
   \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-Medium.eot");
+module.exports = __webpack_require__.p + "fonts/GothamPro-Medium.eot";
 
 /***/ }),
 
@@ -259,12 +233,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!************************************!*\
   !*** ./fonts/GothamPro-Medium.ttf ***!
   \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-Medium.ttf");
+module.exports = __webpack_require__.p + "fonts/GothamPro-Medium.ttf";
 
 /***/ }),
 
@@ -272,12 +244,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!*************************************!*\
   !*** ./fonts/GothamPro-Medium.woff ***!
   \*************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fonts/GothamPro-Medium.woff");
+module.exports = __webpack_require__.p + "fonts/GothamPro-Medium.woff";
 
 /***/ }),
 
@@ -290,7 +260,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "images/esc2020logo.png");
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "img/esc2020logo.png");
 
 /***/ }),
 
@@ -342,7 +312,7 @@ var React = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 
 var ReactDOM = __webpack_require__(/*! react-dom */ "./node_modules/react-dom/index.js");
 
-var ima = __webpack_require__(/*! ./js/../img/esc2020logo.png */ "./img/esc2020logo.png");
+var ima = __webpack_require__(/*! ./js/../img/esc2020logo.png */ "./img/esc2020logo.png")["default"];
 
 var Content =
 /*#__PURE__*/
@@ -362,7 +332,7 @@ function (_React$Component) {
         className: "b"
       }, "TUPO TEXT"), React.createElement("img", {
         src: ima,
-        height: "100px"
+        height: "300px"
       }));
     }
   }]);

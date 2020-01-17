@@ -1,17 +1,14 @@
 const path = require('path');
+const CopyWebpackPlugin = require("copy-webpack-plugin");
 
 module.exports = {
     entry: './js/app.js',
     mode: 'development',
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'bundle.js'
+        filename: 'bundle.js',
     },
-    resolve: {
-        alias: {
-            images: path.resolve(__dirname, 'images/'),
-        },
-    },
+
     devtool: "source-map",
     module: {
         rules: [
@@ -21,7 +18,7 @@ module.exports = {
                     'style-loader',
                     'css-loader',
                     {
-                        loader: 'sass-loader'
+                        loader: 'sass-loader',
                     },
                 ],
             },
@@ -29,7 +26,7 @@ module.exports = {
                 test: /\.m?js$/,
                 exclude: /(node_modules)/,
                 use: {
-                    loader: 'babel-loader'
+                    loader: 'babel-loader',
                 }
             },
             {
@@ -37,7 +34,7 @@ module.exports = {
                 use: {
                     loader: 'file-loader',
                     options: {
-                        name: 'images/[name].[ext]'
+                        name: '[path][name].[ext]',
                     }
                 }
             },
@@ -47,7 +44,8 @@ module.exports = {
                 use: {
                     loader: 'file-loader',
                     options: {
-                        name: 'fonts/[name].[ext]'
+                        esModule: false,
+                        name: '[path][name].[ext]',
                     }
                 }
             }

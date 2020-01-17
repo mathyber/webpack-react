@@ -1,6 +1,6 @@
 const React = require('react')
 const ReactDOM = require('react-dom')
-const ima = require(__dirname + '/../img/esc2020logo.png')
+const ima = require(__dirname + '/../img/esc2020logo.png').default
 
 class Content extends React.Component {
 
@@ -10,7 +10,7 @@ class Content extends React.Component {
                 <div className='b'>
                     TUPO TEXT
                 </div>
-                <img src={ima} height="100px"/>
+                <img src={ima} height="300px"/>
             </div>
 
         )
