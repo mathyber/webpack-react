@@ -7,10 +7,15 @@ class Content extends React.Component {
     render() {
         return (
             <div>
-                <div className='b'>
-                    TUPO TEXT
+                <div className='title'>
+                    Демонстрационная страница
                 </div>
-                <img src={ima} height="300px"/>
+
+                <div className='text'>
+                    Подключен шрифт из файла, стили из .scss и изображение
+                </div>
+
+                <img className='img' src={ima}/>
             </div>
 
         )
