@@ -81,296 +81,36 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./js/app.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./src/app.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./fonts/GothamPro-BlackItalic.eot":
-/*!*****************************************!*\
-  !*** ./fonts/GothamPro-BlackItalic.eot ***!
-  \*****************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-BlackItalic.eot";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-BlackItalic.ttf":
-/*!*****************************************!*\
-  !*** ./fonts/GothamPro-BlackItalic.ttf ***!
-  \*****************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-BlackItalic.ttf";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-BlackItalic.woff":
-/*!******************************************!*\
-  !*** ./fonts/GothamPro-BlackItalic.woff ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-BlackItalic.woff";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-Bold.eot":
-/*!**********************************!*\
-  !*** ./fonts/GothamPro-Bold.eot ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-Bold.eot";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-Bold.ttf":
-/*!**********************************!*\
-  !*** ./fonts/GothamPro-Bold.ttf ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-Bold.ttf";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-Bold.woff":
-/*!***********************************!*\
-  !*** ./fonts/GothamPro-Bold.woff ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-Bold.woff";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-BoldItalic.eot":
-/*!****************************************!*\
-  !*** ./fonts/GothamPro-BoldItalic.eot ***!
-  \****************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-BoldItalic.eot";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-BoldItalic.ttf":
-/*!****************************************!*\
-  !*** ./fonts/GothamPro-BoldItalic.ttf ***!
-  \****************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-BoldItalic.ttf";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-BoldItalic.woff":
-/*!*****************************************!*\
-  !*** ./fonts/GothamPro-BoldItalic.woff ***!
-  \*****************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-BoldItalic.woff";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-Italic.eot":
-/*!************************************!*\
-  !*** ./fonts/GothamPro-Italic.eot ***!
-  \************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-Italic.eot";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-Italic.ttf":
-/*!************************************!*\
-  !*** ./fonts/GothamPro-Italic.ttf ***!
-  \************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-Italic.ttf";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-Italic.woff":
-/*!*************************************!*\
-  !*** ./fonts/GothamPro-Italic.woff ***!
-  \*************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-Italic.woff";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-Medium.eot":
-/*!************************************!*\
-  !*** ./fonts/GothamPro-Medium.eot ***!
-  \************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-Medium.eot";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-Medium.ttf":
-/*!************************************!*\
-  !*** ./fonts/GothamPro-Medium.ttf ***!
-  \************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-Medium.ttf";
-
-/***/ }),
-
-/***/ "./fonts/GothamPro-Medium.woff":
-/*!*************************************!*\
-  !*** ./fonts/GothamPro-Medium.woff ***!
-  \*************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/GothamPro-Medium.woff";
-
-/***/ }),
-
-/***/ "./img/esc2020logo.png":
-/*!*****************************!*\
-  !*** ./img/esc2020logo.png ***!
-  \*****************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "img/esc2020logo.png");
-
-/***/ }),
-
-/***/ "./js/app.js":
-/*!*******************!*\
-  !*** ./js/app.js ***!
-  \*******************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-var React = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-
-var ReactDOM = __webpack_require__(/*! react-dom */ "./node_modules/react-dom/index.js");
-
-var Content = __webpack_require__(/*! ./content.js */ "./js/content.js");
-
-var st = __webpack_require__(/*! ./js/../style/style.scss */ "./style/style.scss");
-
-ReactDOM.render(React.createElement(Content, null), document.querySelector("body"));
-
-/***/ }),
-
-/***/ "./js/content.js":
-/*!***********************!*\
-  !*** ./js/content.js ***!
-  \***********************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
-
-function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
-
-function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
-
-function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
-
-function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
-
-function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
-
-function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
-
-function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
-
-function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
-
-var React = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-
-var ReactDOM = __webpack_require__(/*! react-dom */ "./node_modules/react-dom/index.js");
-
-var ima = __webpack_require__(/*! ./js/../img/esc2020logo.png */ "./img/esc2020logo.png")["default"];
-
-var Content =
-/*#__PURE__*/
-function (_React$Component) {
-  _inherits(Content, _React$Component);
-
-  function Content() {
-    _classCallCheck(this, Content);
-
-    return _possibleConstructorReturn(this, _getPrototypeOf(Content).apply(this, arguments));
-  }
-
-  _createClass(Content, [{
-    key: "render",
-    value: function render() {
-      return React.createElement("div", null, React.createElement("div", {
-        className: "title"
-      }, "\u0414\u0435\u043C\u043E\u043D\u0441\u0442\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0441\u0442\u0440\u0430\u043D\u0438\u0446\u0430"), React.createElement("div", {
-        className: "text"
-      }, "\u041F\u043E\u0434\u043A\u043B\u044E\u0447\u0435\u043D \u0448\u0440\u0438\u0444\u0442 \u0438\u0437 \u0444\u0430\u0439\u043B\u0430, \u0441\u0442\u0438\u043B\u0438 \u0438\u0437 .scss \u0438 \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u0435"), React.createElement("img", {
-        className: "img",
-        src: ima
-      }));
-    }
-  }]);
-
-  return Content;
-}(React.Component);
-
-module.exports = Content;
-
-/***/ }),
-
-/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./style/style.scss":
-/*!*******************************************************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./style/style.scss ***!
-  \*******************************************************************************************************/
+/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/style/style.scss":
+/*!***********************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/style/style.scss ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 // Imports
-var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
-var ___CSS_LOADER_GET_URL_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ "./node_modules/css-loader/dist/runtime/getUrl.js");
-var ___CSS_LOADER_URL_IMPORT_0___ = __webpack_require__(/*! ../fonts/GothamPro-BoldItalic.eot */ "./fonts/GothamPro-BoldItalic.eot");
-var ___CSS_LOADER_URL_IMPORT_1___ = __webpack_require__(/*! ../fonts/GothamPro-BoldItalic.woff */ "./fonts/GothamPro-BoldItalic.woff");
-var ___CSS_LOADER_URL_IMPORT_2___ = __webpack_require__(/*! ../fonts/GothamPro-BoldItalic.ttf */ "./fonts/GothamPro-BoldItalic.ttf");
-var ___CSS_LOADER_URL_IMPORT_3___ = __webpack_require__(/*! ../fonts/GothamPro-Italic.eot */ "./fonts/GothamPro-Italic.eot");
-var ___CSS_LOADER_URL_IMPORT_4___ = __webpack_require__(/*! ../fonts/GothamPro-Italic.woff */ "./fonts/GothamPro-Italic.woff");
-var ___CSS_LOADER_URL_IMPORT_5___ = __webpack_require__(/*! ../fonts/GothamPro-Italic.ttf */ "./fonts/GothamPro-Italic.ttf");
-var ___CSS_LOADER_URL_IMPORT_6___ = __webpack_require__(/*! ../fonts/GothamPro-Medium.eot */ "./fonts/GothamPro-Medium.eot");
-var ___CSS_LOADER_URL_IMPORT_7___ = __webpack_require__(/*! ../fonts/GothamPro-Medium.woff */ "./fonts/GothamPro-Medium.woff");
-var ___CSS_LOADER_URL_IMPORT_8___ = __webpack_require__(/*! ../fonts/GothamPro-Medium.ttf */ "./fonts/GothamPro-Medium.ttf");
-var ___CSS_LOADER_URL_IMPORT_9___ = __webpack_require__(/*! ../fonts/GothamPro-BlackItalic.eot */ "./fonts/GothamPro-BlackItalic.eot");
-var ___CSS_LOADER_URL_IMPORT_10___ = __webpack_require__(/*! ../fonts/GothamPro-BlackItalic.woff */ "./fonts/GothamPro-BlackItalic.woff");
-var ___CSS_LOADER_URL_IMPORT_11___ = __webpack_require__(/*! ../fonts/GothamPro-BlackItalic.ttf */ "./fonts/GothamPro-BlackItalic.ttf");
-var ___CSS_LOADER_URL_IMPORT_12___ = __webpack_require__(/*! ../fonts/GothamPro-Bold.eot */ "./fonts/GothamPro-Bold.eot");
-var ___CSS_LOADER_URL_IMPORT_13___ = __webpack_require__(/*! ../fonts/GothamPro-Bold.woff */ "./fonts/GothamPro-Bold.woff");
-var ___CSS_LOADER_URL_IMPORT_14___ = __webpack_require__(/*! ../fonts/GothamPro-Bold.ttf */ "./fonts/GothamPro-Bold.ttf");
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+var ___CSS_LOADER_GET_URL_IMPORT___ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/getUrl.js */ "./node_modules/css-loader/dist/runtime/getUrl.js");
+var ___CSS_LOADER_URL_IMPORT_0___ = __webpack_require__(/*! ../fonts/GothamPro-BoldItalic.eot */ "./src/fonts/GothamPro-BoldItalic.eot");
+var ___CSS_LOADER_URL_IMPORT_1___ = __webpack_require__(/*! ../fonts/GothamPro-BoldItalic.woff */ "./src/fonts/GothamPro-BoldItalic.woff");
+var ___CSS_LOADER_URL_IMPORT_2___ = __webpack_require__(/*! ../fonts/GothamPro-BoldItalic.ttf */ "./src/fonts/GothamPro-BoldItalic.ttf");
+var ___CSS_LOADER_URL_IMPORT_3___ = __webpack_require__(/*! ../fonts/GothamPro-Italic.eot */ "./src/fonts/GothamPro-Italic.eot");
+var ___CSS_LOADER_URL_IMPORT_4___ = __webpack_require__(/*! ../fonts/GothamPro-Italic.woff */ "./src/fonts/GothamPro-Italic.woff");
+var ___CSS_LOADER_URL_IMPORT_5___ = __webpack_require__(/*! ../fonts/GothamPro-Italic.ttf */ "./src/fonts/GothamPro-Italic.ttf");
+var ___CSS_LOADER_URL_IMPORT_6___ = __webpack_require__(/*! ../fonts/GothamPro-Medium.eot */ "./src/fonts/GothamPro-Medium.eot");
+var ___CSS_LOADER_URL_IMPORT_7___ = __webpack_require__(/*! ../fonts/GothamPro-Medium.woff */ "./src/fonts/GothamPro-Medium.woff");
+var ___CSS_LOADER_URL_IMPORT_8___ = __webpack_require__(/*! ../fonts/GothamPro-Medium.ttf */ "./src/fonts/GothamPro-Medium.ttf");
+var ___CSS_LOADER_URL_IMPORT_9___ = __webpack_require__(/*! ../fonts/GothamPro-BlackItalic.eot */ "./src/fonts/GothamPro-BlackItalic.eot");
+var ___CSS_LOADER_URL_IMPORT_10___ = __webpack_require__(/*! ../fonts/GothamPro-BlackItalic.woff */ "./src/fonts/GothamPro-BlackItalic.woff");
+var ___CSS_LOADER_URL_IMPORT_11___ = __webpack_require__(/*! ../fonts/GothamPro-BlackItalic.ttf */ "./src/fonts/GothamPro-BlackItalic.ttf");
+var ___CSS_LOADER_URL_IMPORT_12___ = __webpack_require__(/*! ../fonts/GothamPro-Bold.eot */ "./src/fonts/GothamPro-Bold.eot");
+var ___CSS_LOADER_URL_IMPORT_13___ = __webpack_require__(/*! ../fonts/GothamPro-Bold.woff */ "./src/fonts/GothamPro-Bold.woff");
+var ___CSS_LOADER_URL_IMPORT_14___ = __webpack_require__(/*! ../fonts/GothamPro-Bold.ttf */ "./src/fonts/GothamPro-Bold.ttf");
 exports = ___CSS_LOADER_API_IMPORT___(false);
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_0___);
 var ___CSS_LOADER_URL_REPLACEMENT_1___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_0___, { hash: "?#iefix" });
@@ -32625,15 +32365,275 @@ module.exports = function (moduleId, list, options) {
 
 /***/ }),
 
-/***/ "./style/style.scss":
-/*!**************************!*\
-  !*** ./style/style.scss ***!
-  \**************************/
+/***/ "./src/app.js":
+/*!********************!*\
+  !*** ./src/app.js ***!
+  \********************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
-            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./style.scss */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./style/style.scss");
+var React = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+
+var ReactDOM = __webpack_require__(/*! react-dom */ "./node_modules/react-dom/index.js");
+
+var Content = __webpack_require__(/*! ./component/content.js */ "./src/component/content.js");
+
+var st = __webpack_require__(/*! ./src/style/style.scss */ "./src/style/style.scss");
+
+ReactDOM.render(React.createElement(Content, null), document.querySelector("body"));
+
+/***/ }),
+
+/***/ "./src/component/content.js":
+/*!**********************************!*\
+  !*** ./src/component/content.js ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
+
+function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
+
+function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
+
+function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
+
+var React = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+
+var ReactDOM = __webpack_require__(/*! react-dom */ "./node_modules/react-dom/index.js");
+
+var ima = __webpack_require__(/*! ./src/component/../img/esc2020logo.png */ "./src/img/esc2020logo.png")["default"];
+
+var Content =
+/*#__PURE__*/
+function (_React$Component) {
+  _inherits(Content, _React$Component);
+
+  function Content() {
+    _classCallCheck(this, Content);
+
+    return _possibleConstructorReturn(this, _getPrototypeOf(Content).apply(this, arguments));
+  }
+
+  _createClass(Content, [{
+    key: "render",
+    value: function render() {
+      return React.createElement("div", null, React.createElement("div", {
+        className: "title"
+      }, "\u0414\u0435\u043C\u043E\u043D\u0441\u0442\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0441\u0442\u0440\u0430\u043D\u0438\u0446\u0430"), React.createElement("div", {
+        className: "text"
+      }, "\u041F\u043E\u0434\u043A\u043B\u044E\u0447\u0435\u043D \u0448\u0440\u0438\u0444\u0442 \u0438\u0437 \u0444\u0430\u0439\u043B\u0430, \u0441\u0442\u0438\u043B\u0438 \u0438\u0437 .scss \u0438 \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u0435"), React.createElement("img", {
+        className: "img",
+        src: ima
+      }));
+    }
+  }]);
+
+  return Content;
+}(React.Component);
+
+module.exports = Content;
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-BlackItalic.eot":
+/*!*********************************************!*\
+  !*** ./src/fonts/GothamPro-BlackItalic.eot ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-BlackItalic.eot";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-BlackItalic.ttf":
+/*!*********************************************!*\
+  !*** ./src/fonts/GothamPro-BlackItalic.ttf ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-BlackItalic.ttf";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-BlackItalic.woff":
+/*!**********************************************!*\
+  !*** ./src/fonts/GothamPro-BlackItalic.woff ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-BlackItalic.woff";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-Bold.eot":
+/*!**************************************!*\
+  !*** ./src/fonts/GothamPro-Bold.eot ***!
+  \**************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-Bold.eot";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-Bold.ttf":
+/*!**************************************!*\
+  !*** ./src/fonts/GothamPro-Bold.ttf ***!
+  \**************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-Bold.ttf";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-Bold.woff":
+/*!***************************************!*\
+  !*** ./src/fonts/GothamPro-Bold.woff ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-Bold.woff";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-BoldItalic.eot":
+/*!********************************************!*\
+  !*** ./src/fonts/GothamPro-BoldItalic.eot ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-BoldItalic.eot";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-BoldItalic.ttf":
+/*!********************************************!*\
+  !*** ./src/fonts/GothamPro-BoldItalic.ttf ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-BoldItalic.ttf";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-BoldItalic.woff":
+/*!*********************************************!*\
+  !*** ./src/fonts/GothamPro-BoldItalic.woff ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-BoldItalic.woff";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-Italic.eot":
+/*!****************************************!*\
+  !*** ./src/fonts/GothamPro-Italic.eot ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-Italic.eot";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-Italic.ttf":
+/*!****************************************!*\
+  !*** ./src/fonts/GothamPro-Italic.ttf ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-Italic.ttf";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-Italic.woff":
+/*!*****************************************!*\
+  !*** ./src/fonts/GothamPro-Italic.woff ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-Italic.woff";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-Medium.eot":
+/*!****************************************!*\
+  !*** ./src/fonts/GothamPro-Medium.eot ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-Medium.eot";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-Medium.ttf":
+/*!****************************************!*\
+  !*** ./src/fonts/GothamPro-Medium.ttf ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-Medium.ttf";
+
+/***/ }),
+
+/***/ "./src/fonts/GothamPro-Medium.woff":
+/*!*****************************************!*\
+  !*** ./src/fonts/GothamPro-Medium.woff ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "src/fonts/GothamPro-Medium.woff";
+
+/***/ }),
+
+/***/ "./src/img/esc2020logo.png":
+/*!*********************************!*\
+  !*** ./src/img/esc2020logo.png ***!
+  \*********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "src/img/esc2020logo.png");
+
+/***/ }),
+
+/***/ "./src/style/style.scss":
+/*!******************************!*\
+  !*** ./src/style/style.scss ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../../node_modules/css-loader/dist/cjs.js!../../node_modules/sass-loader/dist/cjs.js!./style.scss */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/style/style.scss");
 
             content = content.__esModule ? content.default : content;
 
