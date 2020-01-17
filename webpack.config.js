@@ -1,5 +1,5 @@
 const path = require('path');
-const CopyWebpackPlugin = require("copy-webpack-plugin");
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
     entry: './js/app.js',
@@ -50,5 +50,10 @@ module.exports = {
                 }
             }
         ]
-    }
+    },
+    devServer: {
+        contentBase: path.join(__dirname,  'dist'),
+        port: 9000
+    },
+    plugins: [new HtmlWebpackPlugin()]
 };

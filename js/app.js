@@ -5,5 +5,5 @@ const st = require(__dirname + '/../style/style.scss')
 
 ReactDOM.render(
  <Content /> ,
-    document.querySelector("#root")
+    document.querySelector("body")
 )

@@ -279,7 +279,7 @@ var Content = __webpack_require__(/*! ./content.js */ "./js/content.js");
 
 var st = __webpack_require__(/*! ./js/../style/style.scss */ "./style/style.scss");
 
-ReactDOM.render(React.createElement(Content, null), document.querySelector("#root"));
+ReactDOM.render(React.createElement(Content, null), document.querySelector("body"));
 
 /***/ }),
 
