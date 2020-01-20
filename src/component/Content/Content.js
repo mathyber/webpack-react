@@ -1,6 +1,6 @@
 import React from "react";
-import './Content.scss'
 import ima from '../../img/esc2020logo.png'
+import './Content.scss'
 
 class Content extends React.Component {
 
