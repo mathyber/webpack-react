@@ -2,13 +2,14 @@
 
 $body-color: gray;
 $b-color: white;
-$font-title: 'Gotham Pro', GothamPro, Arial, sans-serif;
-$font-text: 'Gotham Pro', GothamPro, Arial, sans-serif;
+$font-title: 'Gotham Pro', sans-serif;
+$font-text: 'Gotham Pro', sans-serif;
 
 body {
   background: blue;
   color: $body-color;
   .title {
+    background-color: midnightblue;
     padding: 20px;
 
     display: flex;
@@ -20,6 +21,7 @@ body {
     font-style: normal;
     color: $b-color;
     font-size: 40px;
+    text-transform: uppercase;
   }
 
   .text {
