@@ -1,6 +1,6 @@
-const React = require('react')
-const st = require(__dirname + '/Content.scss')
-const ima = require(__dirname + '/../../img/esc2020logo.png').default
+import React from "react";
+import './Content.scss'
+import ima from '../../img/esc2020logo.png'
 
 class Content extends React.Component {
 
@@ -22,4 +22,4 @@ class Content extends React.Component {
     }
 }
 
-module.exports = Content
+export default Content;
