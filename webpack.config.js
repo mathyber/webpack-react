@@ -2,7 +2,7 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-    entry: './src/index.js',
+    entry: './src/containers/home/home.js',
     mode: 'development',
     output: {
         path: path.resolve(__dirname, 'dist'),
@@ -13,7 +13,6 @@ module.exports = {
     watchOptions: {
         aggregateTimeout: 100
     },
-
     devtool: "source-map",
     module: {
         rules: [
@@ -23,7 +22,7 @@ module.exports = {
                     'style-loader',
                     'css-loader',
                     {
-                        loader: 'sass-loader',
+                        loader: 'sass-loader'
                     },
                 ],
             },
@@ -61,6 +60,5 @@ module.exports = {
         contentBase: path.join(__dirname,  'dist'),
         port: 9000
     },
-
     plugins: [new HtmlWebpackPlugin()]
 };

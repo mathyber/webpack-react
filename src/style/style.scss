@@ -1,13 +1,14 @@
-@import "../../fonts/fonts";
+@import "../fonts/fonts";
 
 $body-color: gray;
 $b-color: white;
 $font-title: 'Gotham Pro', sans-serif;
-$font-text: 'Gotham Pro', sans-serif;
 
 body {
   background: blue;
   color: $body-color;
+  font-family: $font-title;
+
   .title {
     background-color: midnightblue;
     padding: 20px;
@@ -16,7 +17,6 @@ body {
     align-items: center;
     justify-content: center;
 
-    font-family: $font-title;
     font-weight: bold;
     font-style: normal;
     color: $b-color;
@@ -31,7 +31,6 @@ body {
     align-items: center;
     justify-content: center;
 
-    font-family: $font-text;
     font-weight: bold;
     font-style: italic;
     color: $b-color;
@@ -46,6 +45,15 @@ body {
     justify-content: center;
 
     width: 100%;
+  }
+  .footer-text {
+    padding: 40px;
+    margin-top: 10px;
+
+    background-color: midnightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 

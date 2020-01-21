@@ -1,16 +1,11 @@
 import React from "react";
 import ima from '../../img/esc2020logo.png'
-import './Content.scss'
 
-class Content extends React.Component {
+class Index extends React.Component {
 
     render() {
         return (
             <div>
-                <div className='title'>
-                    Демонстрационная страница
-                </div>
-
                 <div className='text'>
                     Подключен шрифт из файла, стили из .scss и изображение
                 </div>
@@ -22,4 +17,4 @@ class Content extends React.Component {
     }
 }
 
-export default Content;
+export default Index;
