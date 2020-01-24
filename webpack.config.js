@@ -2,11 +2,15 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-    entry: './src/containers/home/home.js',
+    entry: {
+        home: './src/containers/home/home.js',
+        login: './src/containers/login/login.js'
+    },
     mode: 'development',
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'bundle.js',
+        filename: '[name].js',
+        library: "[name]"
     },
 
     watch: true,
