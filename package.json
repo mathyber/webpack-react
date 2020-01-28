@@ -14,6 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "@babel/preset-react": "^7.8.3",
+    "axios": "^0.19.2",
+    "axois": "0.0.1-security",
     "copy-webpack-plugin": "^5.1.1",
     "file-loader": "^5.0.2",
     "react": "^16.12.0",
@@ -23,6 +25,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@babel/preset-env": "^7.8.3",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.4.2",
@@ -40,8 +43,11 @@
   },
   "babel": {
     "presets": [
-      "@babel/env",
-      "@babel/react"
+      "@babel/react",
+      "@babel/env"
+    ],
+    "plugins": [
+      "@babel/plugin-proposal-class-properties"
     ]
   }
 }

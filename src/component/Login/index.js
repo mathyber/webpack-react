@@ -1,24 +1,42 @@
 import React, {Component} from "react"
 import "./style.scss"
+import axios from "axios";
 
 class Login extends Component {
-    constructor(props) {
-        super(props);
-        let loggedIn = false;
-        const token = localStorage.getItem('token');
-        if (token) loggedIn = true;
 
-        this.state = {
-            login: null,
-            password: null,
-            loggedIn
-        }
-        this.OnChange = this.onChange.bind(this);
+    state = {
+        login: null,
+        password: null,
+        language: null,
+        token: null
     }
+
     onChange(e){
         this.setState({
             [e.target.name]: e.target.value
         })
+    }
+
+    getToken = (e) => {
+        e.preventDefault();
+        const login = e.target.elements.login.value;
+        const password = e.target.elements.password.value;
+        const language = e.target.elements.language.value;
+
+        const auth={
+            login: login,
+            password: password,
+            language: language
+        }
+        if (login && password && language) {
+            axios.post(`/api/identity/login`, auth)
+                .then((res) => {
+                    const token = res.data.accessToken;
+                    this.setState({token: token});
+                    console.log(this.state.token);
+                })
+                .catch(error => console.log(error))
+        } else return;
     }
 
     render() {
@@ -29,9 +47,11 @@ class Login extends Component {
                     <div> TMS для компании Beiersdorf</div>
                 </div>
 
-                <form className="login_form">
-                    <input type="text" placeholder='login' value={this.state.login} onChange={this.onChange} name='login'/>
-                    <input type='password' placeholder='password' value={this.state.password} onChange={this.onChange} name='password'/>
+                <form className="login_form"  onSubmit={this.getToken} >
+                    <input type="text" placeholder='login' value={this.state.login} name='login'/>
+                    <input type='password' placeholder='password' value={this.state.password} name='password'/>
+                    <br/>
+                    <input type="text" placeholder='language' value={this.state.language} name='language'/>
                     <button type="submit">Войти</button>
                 </form>
 
